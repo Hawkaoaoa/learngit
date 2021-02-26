@@ -3,4 +3,9 @@ That is a very truth.
 
 Are u oK?
 ???
-I'm desperated.
+<<<<<<< HEAD
+
+=======
+There is nothing else i want to do
+
+>>>>>>> feature1
